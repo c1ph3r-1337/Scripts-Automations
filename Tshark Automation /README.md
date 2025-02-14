@@ -100,12 +100,3 @@ fi
 
 - **Output File:**  
   Set `OUTPUT_FILE` to a desired file name or path to store the capture.
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-Feel free to fork this repository and customize the script as needed. Happy capturing!
-```
