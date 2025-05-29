@@ -1,6 +1,9 @@
 
 # 🐧 Bash Bouncing Animation
 
+![Screenshot From 2025-05-29 13-14-42](https://github.com/user-attachments/assets/4343fa8b-f482-457f-81cd-fe126eaad1a8)
+
+![Screenshot From 2025-05-29 13-15-06](https://github.com/user-attachments/assets/63019dbe-03ce-4a0b-a84f-d497432a1823)
 
 
 A silly little terminal animation — because why not?
