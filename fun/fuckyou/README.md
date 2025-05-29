@@ -40,5 +40,3 @@ It loops forever. Smash `Ctrl + C` to escape the loop. (Or embrace it.)
 
 Made with too much coffee and not enough sleep ☕️😴
 
-```
-
